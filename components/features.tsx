@@ -7,7 +7,8 @@ export default function Features() {
           {/* Section header */}
           <div id="kurumsal" className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Kurumsal Kimliğimiz</h2>
-            <p className="text-xl text-gray-400">Güven Turizm, 2003 yılında kurumcumuz Yük. Müh. Vural Akpınar tarafından, öğrenci ve personel taşımacılığı alanında faaliyet göstermeye başlamıştır.</p>
+            <p className="text-xl text-gray-400">Güven Turizm 2002 yılında sektöre personel taşımacılığı işi ile başlayıp ulaşımda sorun yaşayan firmalara çözüm ortağı olma amacıyla kurulmuştur. 2005 yılından itibaren okullardaki taşıma sorunlarını tespit ederek güvenli ve dakik taşımacılık amacıyla öğrenci taşımacılığı işine adım atmıştır.
+Öğrenci taşımacılığı işi ile beraber profesyonelleşme adı altında daha yüksek kalitede hizmet verme ve sektöründe öncü olma yolunda ilerlemek için İSO 9001, OHSAS 18001, İSO 10002 ve TSE 12257 belgelerini almıştır. Taşımacılığın profesyonel yapılması, hizmetin kalitesi ve yapılan işte sağlanılan güveni en yüksek standartlarda sağlamak amacıyla hizmetine hız kesmeden devam etmektedir. </p>
           </div>
 
           {/* Items */}
@@ -45,8 +46,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Araç kapasitesi</h4>
+              <p className="text-lg text-gray-400 text-center">100+ araç kapasitesiyle anında çözüm sağlıyoruz.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +59,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">cart curt</h4>
-              <p className="text-lg text-gray-400 text-center">zart zurt</p>
+              <h4 className="h4 mb-2">7/24 Hizmet</h4>
+              <p className="text-lg text-gray-400 text-center">Proje sorumlularımızla 7/24 iletişim sağlayarak daima yanınızdayız.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +72,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Anket</h4>
+              <p className="text-lg text-gray-400 text-center">Hazırladığımız memnuniyet anketimizi dağıtarak sene sonu ortalama %98 üzerinde olumlu sonuç alıyoruz.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +86,9 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Görüşleriniz</h4>
+              <p className="text-lg text-gray-400 text-center">Bizimle paylaştığınız görüşleri dikkate alıyor ve uygun önerilerle ilerleme kaydetmeye devam ediyoruz.
+</p>
             </div>
 
           </div>
