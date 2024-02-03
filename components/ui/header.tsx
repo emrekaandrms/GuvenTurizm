@@ -23,23 +23,23 @@ export default function Header() {
               <li>
                 <Link
                   href="#kurumsal"
-                  className="font-medium text-[#074495] hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-[#1581d1] hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Kurumsal
                 </Link>
               </li>
               <li>
-                <Link href="/Hizmetler" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
+                <Link href="/Hizmetler" className="font-medium text-[#1581d1] hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
                   Hizmetler
                 </Link>
               </li>
               <li>
-                <Link href="/AracPersonel" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
+                <Link href="/AracPersonel" className="font-medium text-[#1581d1] hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
                   Araçlar Personeller
                 </Link>
               </li>
               <li>
-                <Link href="/İletişim" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
+                <Link href="/İletişim" className="font-medium text-[#1581d1] hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
                   İletişim
                 </Link>
               </li>
