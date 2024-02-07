@@ -19,7 +19,7 @@ export default function Newsletter() {
             </svg>
           </div>
 
-          <div className="relative flex flex-col lg:flex-row justify-between items-center h-72">
+          <div className="relative flex flex-col lg:flex-row justify-between items-center">
           
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
