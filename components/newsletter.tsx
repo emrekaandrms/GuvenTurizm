@@ -31,7 +31,8 @@ export default function Newsletter() {
             <form className="w-full lg:w-1/2 ">
               <div className="flex flex-col justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
                 <input type="text" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-2 sm:mr-2 text-white placeholder-purple-400" placeholder="Adınız Soyadınız" aria-label="Adınız Soyadınız"  required/>
-                <input type="email" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-02 sm:mr-2 text-white placeholder-purple-400" placeholder="Email Adrsiniz" aria-label="Email Adresiniz" required />
+                <input type="email" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-02 sm:mr-2 text-white placeholder-purple-400" placeholder="Email Adresiniz" aria-label="Email Adresiniz" required />
+                <input type="text" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-2 sm:mr-2 text-white placeholder-purple-400" placeholder="Telefon Numaranız (Fiyat teklifi için gereklidir)" aria-label="Telefon Numaranız"  required/>
                 <input type="textarea" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-8 mb-2 sm:mb-6 sm:mr-2 text-white placeholder-purple-400" placeholder="Talep Detayları" aria-label="Talep Detayları" required />
                 <button type="submit" className="btn text-purple-600 bg-purple-100 hover:bg-white shadow" value="submit">Gönder</button>
               </div>
