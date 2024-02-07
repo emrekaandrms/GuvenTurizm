@@ -22,9 +22,9 @@ export default function Hero() {
         <div className="relative pt-32 pb-10 md:pt-40 md:pb-16">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
+          <div className="max-w-5xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">GÜVEN'LE TAŞIYORUZ</h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">2002 yılından bugüne aynı iş disiplinini koruyarak hizmetimizin en önemli önceliği ve ana sloganımız olan "GÜVEN'le taşıyoruz" anlayışıyla sektörde varlığımızı genişleterek
+            <p className="text-xl text-gray-550 mb-8" data-aos="fade-up" data-aos-delay="200">2002 yılından bugüne aynı iş disiplinini koruyarak hizmetimizin en önemli önceliği ve ana sloganımız olan "GÜVEN'le taşıyoruz" anlayışıyla sektörde varlığımızı genişleterek
 devam etmekteyiz. Profesyonel taşımacılığı benimsemiş,hizmet ve kalite standartlarımızı her zaman daha üst seviyeye yükseltip, henüz okula yeni adım atacak olan en kıymetlilerimizden; iş ortamına huzurlu, konforlu ve
 dakik bir şekilde ulaşımını sağladığımız sizlerin de gösterdiği memnuniyetin gururunu taşımaktayız.</p>
           </div>

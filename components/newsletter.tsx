@@ -1,7 +1,7 @@
 export default function Newsletter() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 " id="iletisim">
 
         {/* CTA box */}
         <div className="relative bg-[#074495] py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
@@ -19,7 +19,7 @@ export default function Newsletter() {
             </svg>
           </div>
 
-          <div className="relative flex flex-col lg:flex-row justify-between items-center">
+          <div className="relative flex flex-col lg:flex-row justify-between items-center h-72">
           
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
@@ -28,12 +28,12 @@ export default function Newsletter() {
             </div>
 
             {/* CTA form */}
-            <form className="w-full lg:w-1/2">
-              <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
-                <input type="text" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-purple-400" placeholder="Adınız Soyadınız" aria-label="Adınız Soyadınız"  required/>
-                <input type="email" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-purple-400" placeholder="Email Adrsiniz" aria-label="Email Adresiniz" required />
-                <input type="textarea" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-purple-400" placeholder="Talep Detayları" aria-label="Talep Detayları" required />
-                <a type="submit" className="btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="#0">Gönder</a>
+            <form className="w-full lg:w-1/2 ">
+              <div className="flex flex-col justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
+                <input type="text" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-2 sm:mr-2 text-white placeholder-purple-400" placeholder="Adınız Soyadınız" aria-label="Adınız Soyadınız"  required/>
+                <input type="email" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-3 mb-2 sm:mb-02 sm:mr-2 text-white placeholder-purple-400" placeholder="Email Adrsiniz" aria-label="Email Adresiniz" required />
+                <input type="textarea" className="w-full appearance-none bg-purple-700 border border-purple-500 focus:border-purple-300 rounded-sm px-4 py-8 mb-2 sm:mb-6 sm:mr-2 text-white placeholder-purple-400" placeholder="Talep Detayları" aria-label="Talep Detayları" required />
+                <button type="submit" className="btn text-purple-600 bg-purple-100 hover:bg-white shadow" value="submit">Gönder</button>
               </div>
               {/* Success message */}
               {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}

@@ -1,13 +1,13 @@
 export default function Features() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:py-20">
 
           {/* Section header */}
-          <div id="kurumsal" className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
+          <div id="kurumsal" className="max-w-4xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Kurumsal Kimliğimiz</h2>
-            <p className="text-xl text-gray-400">Güven Turizm 2002 yılında sektöre personel taşımacılığı işi ile başlayıp ulaşımda sorun yaşayan firmalara çözüm ortağı olma amacıyla kurulmuştur. 2005 yılından itibaren okullardaki taşıma sorunlarını tespit ederek güvenli ve dakik taşımacılık amacıyla öğrenci taşımacılığı işine adım atmıştır.
+            <p className="text-xl text-gray-550">Güven Turizm 2002 yılında sektöre personel taşımacılığı işi ile başlayıp ulaşımda sorun yaşayan firmalara çözüm ortağı olma amacıyla kurulmuştur. 2005 yılından itibaren okullardaki taşıma sorunlarını tespit ederek güvenli ve dakik taşımacılık amacıyla öğrenci taşımacılığı işine adım atmıştır.
 Öğrenci taşımacılığı işi ile beraber profesyonelleşme adı altında daha yüksek kalitede hizmet verme ve sektöründe öncü olma yolunda ilerlemek için İSO 9001, OHSAS 18001, İSO 10002 ve TSE 12257 belgelerini almıştır. Taşımacılığın profesyonel yapılması, hizmetin kalitesi ve yapılan işte sağlanılan güveni en yüksek standartlarda sağlamak amacıyla hizmetine hız kesmeden devam etmektedir. </p>
           </div>
 
@@ -22,7 +22,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Sertifikalı Hizmet</h4>
-              <p className="text-lg text-gray-400 text-center">ISO 9001 - OHSAS 18001 - ISO 10002 sertifikaları belgeli ve kaliteli hizmet vermekteyiz.</p>
+              <p className="text-lg text-gray-550 text-center">ISO 9001 - OHSAS 18001 - ISO 10002 sertifikaları belgeli ve kaliteli hizmet vermekteyiz.</p>
             </div>
 
             {/* 2nd item */}
@@ -33,7 +33,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Eğitimli Çalışanlar.</h4>
-              <p className="text-lg text-gray-400 text-center">Profesyonel ve eğitimli çalışanlarımızla, iletişim ve hizmet konusunda memnuniyet seviyenizi en üst seviyede tutuyoruz.</p>
+              <p className="text-lg text-gray-550 text-center">Profesyonel ve eğitimli çalışanlarımızla, iletişim ve hizmet konusunda memnuniyet seviyenizi en üst seviyede tutuyoruz.</p>
             </div>
 
             {/* 3rd item */}
@@ -47,7 +47,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Araç kapasitesi</h4>
-              <p className="text-lg text-gray-400 text-center">100+ araç kapasitesiyle anında çözüm sağlıyoruz.</p>
+              <p className="text-lg text-gray-550 text-center">100+ araç kapasitesiyle anında çözüm sağlıyoruz.</p>
             </div>
 
             {/* 4th item */}
@@ -60,7 +60,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">7/24 Hizmet</h4>
-              <p className="text-lg text-gray-400 text-center">Proje sorumlularımızla 7/24 iletişim sağlayarak daima yanınızdayız.</p>
+              <p className="text-lg text-gray-550 text-center">Proje sorumlularımızla 7/24 iletişim sağlayarak daima yanınızdayız.</p>
             </div>
 
             {/* 5th item */}
@@ -73,7 +73,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Anket</h4>
-              <p className="text-lg text-gray-400 text-center">Hazırladığımız memnuniyet anketimizi dağıtarak sene sonu ortalama %98 üzerinde olumlu sonuç alıyoruz.</p>
+              <p className="text-lg text-gray-550 text-center">Hazırladığımız memnuniyet anketimizi dağıtarak sene sonu ortalama %98 üzerinde olumlu sonuç alıyoruz.</p>
             </div>
 
             {/* 6th item */}
@@ -87,7 +87,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Görüşleriniz</h4>
-              <p className="text-lg text-gray-400 text-center">Bizimle paylaştığınız görüşleri dikkate alıyor ve uygun önerilerle ilerleme kaydetmeye devam ediyoruz.
+              <p className="text-lg text-gray-550 text-center">Bizimle paylaştığınız görüşleri dikkate alıyor ve uygun önerilerle ilerleme kaydetmeye devam ediyoruz.
 </p>
             </div>
 
