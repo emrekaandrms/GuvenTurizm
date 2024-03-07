@@ -4,7 +4,7 @@ import FeatImage02 from '@/public/images/guven6.png'
 import FeatImage01 from '@/public/images/IMG_8173.jpg'
 import FeatImage03 from '@/public/images/guven1.png'
 import FeatImage04 from '@/public/images/guven3.png'
-import FeatImage05 from '@/public/images/guven4.JPG'
+import FeatImage05 from '@/public/images/guven4.jpg'
 import FeatImage06 from '@/public/images/20221003_160753.jpg'
 
 
