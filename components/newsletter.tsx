@@ -40,6 +40,7 @@ export default function Newsletter() {
               {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}
             </form>
 
+              <p>Adres: Yeşilbağlar Mah.Eğitim sk. 43/1 Pendik/İSTANBUL</p>
           </div>
 
         </div>
