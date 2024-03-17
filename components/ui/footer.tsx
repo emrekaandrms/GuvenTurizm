@@ -23,9 +23,9 @@ export default function Footer() {
 
              
 
-              <p>Adres: Yeşilbağlar Mah.Eğitim sk. 43/1 Pendik/İSTANBUL</p>
-              <p>Telefon: 0 216 652 1996 </p>
-              <p>Eposta: info@guventur.com.tr</p>
+              <h6>Adres:</h6><p> Yeşilbağlar Mah.Eğitim sk. 43/1 Pendik/İSTANBUL</p>
+              <h6>Telefon:</h6><p> 0 216 652 1996 </p>
+              <h6>Eposta:</h6><p> info@guventur.com.tr</p>
                 
            
 
