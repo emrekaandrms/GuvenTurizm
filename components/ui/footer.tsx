@@ -22,19 +22,15 @@ export default function Footer() {
             <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-3 gap-8">
 
               {/* 2nd block */}
-              <div className="text-sm">
+              <div className="text-md">
+
+              <p>Adres: Yeşilbağlar Mah.Eğitim sk. 43/1 Pendik/İSTANBUL</p>
+              <p>Telefon: 0 216 652 1996 </p>
+              <p>Eposta: info@guventur.com.tr</p>
                 
               </div>
 
-              {/* 3rd block */}
-              <div className="text-sm">
-             
-              </div>
-
-              {/* 4th block */}
-              <div className="text-sm">
-                
-              </div>
+              
 
             </div>
 
