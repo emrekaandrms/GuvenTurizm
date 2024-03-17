@@ -29,8 +29,8 @@ export default function Footer() {
               {/* 3rd block */}
               <div className="text-sm">
               <p>
-            Adres: Yeşilbağlar Mah.Eğitim sk. 43/1 Pendik/İSTANBUL </br>
-            Telefon: 0 216 652 1996 </br>
+            Adres: Yeşilbağlar Mah.Eğitim sk. 43/1 Pendik/İSTANBUL <br>
+            Telefon: 0 216 652 1996 <br>
             Eposta: info@guventur.com.tr
           </p>
               </div>
