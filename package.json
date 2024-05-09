@@ -3,6 +3,9 @@
   "name": "emrekaandrms",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.20.2"
+},
   "scripts": {
     "dev": "next dev",
     "predeploy": "npm run build",
@@ -36,6 +39,4 @@
     "tailwindcss": "^3.3.6"
   }
 }
-  "engines": {
-    "node": "16.20.2"
-}
+  
