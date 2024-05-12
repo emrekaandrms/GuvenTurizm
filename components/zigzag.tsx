@@ -17,9 +17,9 @@ export default function Zigzag() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16" id="hizmetler">
-            <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Hedefe Ulaşın (istersen sileriz)</div>
-            <h1 className="h2 mb-4">Hizmet Kalitemizle Fark Yaratıyoruz (check) </h1>
-            <p className="text-xl text-gray-550">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit laborum — semper quis lectus nulla.</p>
+            <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Hedefe Ulaşın</div>
+            <h1 className="h2 mb-4">Hizmet Kalitemizle Fark Yaratıyoruz </h1>
+            <p className="text-xl text-gray-550">Modern araç filomuz, tecrübeli sürücülerimiz ve titiz güvenlik politikamızla öğrenci ve şirket taşımacılığında sektörün öncülerinden biriyiz. Güvenli ve konforlu bir ortamda, esnek ve uygun fiyatlı çözümler sunarak, eğitim ve iş hayatına katkınızda bulunuyoruz. Detaylı bilgi için kaydırmaya devam ediniz.</p>
           </div>
 
           {/* Items */}

@@ -66,17 +66,17 @@ export default function MobileMenu() {
             </Link>
           </li>
           <li>
-            <Link href="/signin" className="flex font-medium w-full text-[#1581d1] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#hizmetler" className="flex font-medium w-full text-[#1581d1] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Hizmetler
             </Link>
           </li>
           <li>
-            <Link href="/signin" className="flex font-medium w-full text-[#1581d1] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#aracpersonel" className="flex font-medium w-full text-[#1581d1] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               Araçlar ve Personeller
             </Link>
           </li>
           <li>
-            <Link href="/signin" className="flex font-medium w-full text-[#1581d1] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+            <Link href="#iletisim" className="flex font-medium w-full text-[#1581d1] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
               İletişim
             </Link>
           </li>
